@@ -26,6 +26,6 @@ Olá! Eu sou André!<br>
 <a href="https://discord.gg/andreon#6526" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "andreonlinemt@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 
-  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/andreon/andreon/blob/output/github-contribution-grid-snake.svg)
  
 </div>
