@@ -8,7 +8,7 @@ Olá! Eu sou André!<br>
 ##
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/AndreOn01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre&layout=compact&langs_count=7&theme=white"/>
 </div>
@@ -26,6 +26,6 @@ Olá! Eu sou André!<br>
 <a href="https://discord.gg/andreon#6526" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "andreonlinemt@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 
-  ![ Animação de cobra ](https://github.com/andreon/andreon/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
