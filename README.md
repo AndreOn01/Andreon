@@ -1,5 +1,5 @@
 Olá! Eu sou André!<br>
-😁Estou Programando há 8 meses<br>
+😁Estou Programando há 10 meses<br>
 🌱Estou usando JavaScript<br>
 📚Ví algumas linguagens como PHP MySQLI e aprofundado em JS<br>
 😎Tenho Interesse em profundar meus conhecimentos<br>
