@@ -1,9 +1,9 @@
 Olá! Eu sou André!<br>
-😁Estou Programando há 9 meses<br>
-🌱Estou usando JavaScript<br>
-📚Ví algumas linguagens como PHP MySQLI e aprofundado em JS<br>
-😎Tenho Interesse em profundar meus conhecimentos<br>
-💻Desenvolvedor de Front-End<br>
+😁Estou Programando tem 9 meses<br>
+🌱Me identifiquei com a linguagem JavaScript<br>
+📚Durante essa caminhada de 9 meses na programação, aproveitei também para ver algumas outras linguagens como, PHP mysQLI.<br>
+😎Aproveitei para aprender um pouco mais do GitHub.<br>
+🥇Já consigo desenvolver algumas coisinhas básicas como tem lá no meus repositórios 😁👈
 
 ##
 
